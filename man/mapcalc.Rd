@@ -6,9 +6,9 @@
 mapcalc(systolic = 120, diastolic = 80)
 }
 \arguments{
-\item{systolic}{A single or vector of systolic blood pressure(s) Defaults to 120.}
+\item{systolic}{A single or vector of systolic blood pressure(s). Defaults to 120.}
 
-\item{diastolic}{A single or vector of diastolic blood pressure(s) Defaults to 80.}
+\item{diastolic}{A single or vector of diastolic blood pressure(s). Defaults to 80.}
 }
 \description{
 Mean Arterial Pressure (MAP) calculator

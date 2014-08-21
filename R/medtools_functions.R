@@ -1,6 +1,6 @@
 #' Mean Arterial Pressure (MAP) calculator
-#' @param systolic A single or vector of systolic blood pressure(s) Defaults to 120.
-#' @param diastolic A single or vector of diastolic blood pressure(s) Defaults to 80.
+#' @param systolic A single or vector of systolic blood pressure(s). Defaults to 120.
+#' @param diastolic A single or vector of diastolic blood pressure(s). Defaults to 80.
 #' @keywords blood pressure
 #' @export
 #' @examples 
@@ -17,9 +17,9 @@ mapcalc = function(systolic = 120, diastolic = 80){
 #' CV SOFA score calculator 
 #' 
 #' Calculate a Sequential Organ Failure Assessment score using volume of norepinephrine, drug concentration, and patient weight in kilograms
-#' @param volume Volume given Defaults to 10 mL
-#' @param conc Concentration of norepinephrine Defaults to 32 mcg/mL
-#' @param kg Patient weight in kilograms Defaults to 50 kg
+#' @param volume Volume given. Defaults to 10 mL
+#' @param conc Concentration of epinephrine or norepinephrine. Defaults to 32 mcg/mL
+#' @param kg Patient weight in kilograms. Defaults to 50 kg
 #' @keywords CV SOFA
 #' @export
 #' @examples 

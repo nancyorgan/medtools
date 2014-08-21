@@ -6,11 +6,11 @@
 cvsofa(volume = 10, conc = 32, kg = 50)
 }
 \arguments{
-\item{volume}{Volume given Defaults to 10 mL}
+\item{volume}{Volume given. Defaults to 10 mL}
 
-\item{conc}{Concentration of norepinephrine Defaults to 32 mcg/mL}
+\item{conc}{Concentration of epinephrine or norepinephrine. Defaults to 32 mcg/mL}
 
-\item{kg}{Patient weight in kilograms Defaults to 50 kg}
+\item{kg}{Patient weight in kilograms. Defaults to 50 kg}
 }
 \description{
 Calculate a Sequential Organ Failure Assessment score using volume of norepinephrine, drug concentration, and patient weight in kilograms
