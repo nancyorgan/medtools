@@ -1,4 +1,4 @@
-#' medtools.
+#' WHATTTTTTT.
 #'
 #' @name medtools
 #' @docType package

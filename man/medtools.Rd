@@ -3,8 +3,8 @@
 \name{medtools}
 \alias{medtools}
 \alias{medtools-package}
-\title{medtools.}
+\title{WHATTTTTTT.}
 \description{
-medtools.
+WHATTTTTTT.
 }
 
