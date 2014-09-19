@@ -3,8 +3,12 @@
 \name{medtools}
 \alias{medtools}
 \alias{medtools-package}
-\title{WHATTTTTTT.}
+\title{medtools}
 \description{
-WHATTTTTTT.
+Medical calculators for use in clinical research.
 }
-
+\usage{
+cvsofa(volume = 10, conc = 32, kg = 50)
+mapcalc(systolic = 120, diastolic = 80)
+SF.ratio(o2sat = 90, fio2 = 0.4, liter = 8)
+}
