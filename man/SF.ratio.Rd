@@ -6,7 +6,7 @@
 SF.ratio(o2sat = 90, fio2 = 0.4, liter = 8)
 }
 \arguments{
-\item{o2sat}{Oxygen Saturation. Defaults to 90%}
+\item{o2sat}{Oxygen Saturation. Defaults to 90\%}
 
 \item{fio2}{Fraction of Inspired Oxygen. Defaults to 0.40}
 
